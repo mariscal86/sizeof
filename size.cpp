@@ -23,5 +23,5 @@ int main()
     std::cout << "float size is:\t\t\t\t";
     std::cout << sizeof(float) << " bytes.\n";
     std::cout << "double size is:\t\t\t\t";
-    std::cout << sizeof(bool) << " bytes.\n";
+    std::cout << sizeof(double) << " bytes.\n";
 }
